@@ -22,6 +22,12 @@ const defaultData = {
       name: 'Tyler McGinnis',
       email: 'tyler@reacttraining.com',
       avatarURL: config.origin + '/tyler.jpg'
+    },
+    {
+      id: 'fcfd5aee-736c-11ee-b962-0242ac120002',
+      name: 'John Doe',
+      email: 'john@reacttraining.com',
+      avatarURL: config.origin + '/john.jpg'
     }
   ]
 }
